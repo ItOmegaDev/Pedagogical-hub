@@ -1,0 +1,6 @@
+{
+  "name": "Освітня Платформа Pedagogy",
+  "description": "Платформа для публікації педагогічних матеріалів, документів, фото та новин із авторизацією Google, вибором ролі, переглядом файлів та коментарями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,39 @@
+{
+  "entities": {
+    "Material": {
+      "title": "string",
+      "description": "string",
+      "type": "string",
+      "category": "string",
+      "targetSubject": "string",
+      "author": "map",
+      "createdAt": "string",
+      "viewsCount": "number",
+      "likesCount": "number",
+      "likedBy": "array",
+      "savedBy": "array",
+      "commentsCount": "number",
+      "comments": "array",
+      "tags": "array",
+      "fileUrl": "string",
+      "fileName": "string",
+      "fileSize": "string",
+      "pageCount": "number",
+      "images": "array",
+      "slides": "array",
+      "docPreviewContent": "string"
+    },
+    "User": {
+      "id": "string",
+      "name": "string",
+      "email": "string",
+      "avatar": "string",
+      "role": "string",
+      "institution": "string",
+      "subject": "string",
+      "bio": "string",
+      "verified": "boolean",
+      "createdAt": "string"
+    }
+  }
+}
